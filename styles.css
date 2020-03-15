@@ -1,0 +1,43 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+.introContainer{
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background-size: cover;
+    display: table;
+}
+.introContainer .contentContainer{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    padding-bottom: 25%;
+    z-index: 100;
+}
+.contentContainer{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 300%;
+}
+.mainJumboParticles{
+    background-color: darkblue;
+    position: relative;
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+
+}
+.particles-js-canvas-el {
+    z-index: -1;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+.projectImage{
+    max-height: 2px;
+    overflow: hidden;
+}
