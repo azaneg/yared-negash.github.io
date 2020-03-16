@@ -41,3 +41,6 @@ html,body{
     max-height: 2px;
     overflow: hidden;
 }
+#contactSection{
+    background-color: blue;
+}
