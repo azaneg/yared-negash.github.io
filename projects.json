@@ -1,0 +1,22 @@
+[
+  {
+    "Title": "BackLog - Movie Tracker",
+    "Description": "Full Stack web app that allows users to search and track movies, shows, and video games. Interacts with OMDb API to obtain media metadata (Titles, Posters, Dates)",
+    "Tech Stack": ["React", "Node.js", "MongoDb"]
+  },
+  {
+    "Title": "BusBuddy Android App",
+    "Description": "Native Android application that provides New Jersey Transit bus schedules in real time Minute to minute notifications for 250+ NJ Transit bus routes. Improved memory usage by using RecyclerView to only store UI components drawn on screen. UI designed using aesthetically pleasing CardLayout",
+    "Tech Stack": ["Java", "Android", "SQLite"]
+  },
+  {
+    "Title": "BusBuddy Alexa App",
+    "Description": "Amazon Alexa Skill developed primarily in Node.JS. Uses voice commands to offer real time NJ Transit bus data in real time. Analyzes voice commands to offer bus ETA’s for specific routes. Compatibility with Amazon Alexa, Alexa Mobile Application, and Alexa enabled devices",
+    "Tech Stack": ["Node.js", "Alexa SDK", "AWS"]
+  },
+  {
+    "Title": "yared-negash.github.io",
+    "Description": "Online showcase of the skills, projects, and experience I've accumulated. Built using HTML, jQuery, and a CSS framework called Materialize (based on Google's Material Design).",
+    "Tech Stack": ["HTML", "Materialize", "jQuery"]
+  }
+]
